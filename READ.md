@@ -1,0 +1,4 @@
+# My Daily Bible Study
+이 곳은 깃을 배우며 영어 성경 구절을 기록하는 공간입니다.
+## 오늘의 구절
+- "In the beginning God created the heavens and the earth." (Genesis 1:1)
